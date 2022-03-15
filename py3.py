@@ -1,3 +1,6 @@
+
+# вычисление временных промежутков (интервалов; времени)
+
 import time
 startTime = time.time()
 for i in range(0,5):
